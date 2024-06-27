@@ -27,7 +27,8 @@ My name is Adrian Morgenthal and I'm a software developer & currently studying A
 ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine5-000?&logo=UnrealEngine)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
 
-
+<br><br><br>
+![FaithInHumanhity](https://img.shields.io/badge/Faith%20In%20Humanity-5%25-FF5733)
 <br><br><br>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=amaldoror&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/amaldoror)
