@@ -2,17 +2,19 @@
 
 My name is Adrian Morgenthal and I'm a software developer & currently studying Applied Computer Science at [HAW Hamburg](www.haw-hamburg.de). I take great interest in Machine Learning & Data Science, Fullstack WebDev and Game Development.
 
+<!------------------------- L ----------------------------->
 ### Languages
 
+![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Clang](https://img.shields.io/badge/-Clang-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-red?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=ffffff)
 
-
+<!------------------------- TECH ----------------------------->
 ### Technologies
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
@@ -22,24 +24,26 @@ My name is Adrian Morgenthal and I'm a software developer & currently studying A
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
+<!------------------------- TOOLS ----------------------------->
 ### Tools
 
+![Jetbrains IDE's](https://img.shields.io/badge/-Jetbrains-000?&logo=Jetbrains)
 ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine5-000?&logo=UnrealEngine)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
 
-<br><br><br>
-![FaithInHumanhity](https://img.shields.io/badge/Faith%20In%20Humanity-5%25-FF5733)
-<br><br><br>
+<br><br>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=amaldoror&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/amaldoror)
+<!------------------------- STATS ----------------------------->
+<p align="center">
+  <a href="https://github.com/amaldoror/amaldoror">
+    <img src="https://github-readme-stats.vercel.app/api?username=amaldoror&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" style="width: 400px;"/>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaldoror&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 400px;" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldoror&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" style="width: 400px;" />
+    <br>
+    <img src="https://img.shields.io/badge/Faith%20In%20Humanity-5%25-FF5733" alt="Faith in Humanity"
+  </a>
+</p>
 
-
-<a href="https://github.com/amaldoror/amaldoror">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldoror&&hide=jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/amaldoror/amaldoror">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amaldoror&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adrians GitHub Stats" />
-</a>
-
-<br><br><br>
-This github profile readme was made using [Shields.io](https://shields.io/badges) and [SimpleIcons](https://simpleicons.org/). 
+<!-- This github profile readme was made using [Shields.io](https://shields.io/badges) and [SimpleIcons](https://simpleicons.org/). -->
