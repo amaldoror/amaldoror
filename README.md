@@ -1,6 +1,6 @@
 # Hello there!
 
-My name is Adrian Morgenthal and I'm a software developer & currently studying Applied Computer Science at [HAW Hamburg](www.haw-hamburg.de). I take great interest in Machine Learning & Data Science, Fullstack WebDev and Game Development.
+My name is Adrian and I'm a software developer & currently studying Applied Computer Science at [HAW Hamburg](www.haw-hamburg.de). I take great interest in Machine Learning & Data Science, Fullstack WebDev and Game Development.
 
 <!------------------------- L ----------------------------->
 ### Languages
